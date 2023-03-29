@@ -1,4 +1,3 @@
-# ABOUT
 # 💫 About Me:
 🔭 I’m currently working on Software Development in Samim Tekmindz<br>👯 I’m looking to collaborate on realistic and live projects<br>🤝 I’m looking for help with investors for some applications and partners to work on live projects<br>🌱 I’m currently learning SQL, Javascript, Python<br>⚡ Fun fact :- Been in many self development projects and worked for the community too
 
